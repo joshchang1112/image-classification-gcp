@@ -21,10 +21,10 @@ Performance comparison for AutoML Vision vs VM instance (NVIDIA Tesla V100) (Acc
 
 |    AutoML Vision     | Accuracy | Training Time (node hours) | VM instances | Accuracy | Training Time (node hours) |
 | :------------------: | :------: | :------------------------: | :----------: | :------: | :------------------------: |
-|     Sports-Cloud     |  0.9900  |         20 hrs             |  Resnet 101  |  0.9700  |           3.55 hrs         |
-|     Sports-edge      |  0.9760  |         3.84 hrs           |  MobileNet_v3|  0.9600  |           0.64 hrs         |
-|     Food-Cloud       |  0.7700  |         20 hrs             |  Resnet 50   |  0.8337  |           18.63 hrs        |
-|     Food-edge        |  0.8190  |         4.08 hrs           |  MobileNet_v3|  0.9600  |           7.02 hrs         |
+|     Sports-Cloud     |  0.9900  |         20                 |  Resnet 101  |  0.9700  |           3.55             |
+|     Sports-edge      |  0.9760  |         3.84               |  MobileNet_v3|  0.9600  |           0.64             |
+|     Food-Cloud       |  0.7700  |         20                 |  Resnet 50   |  0.8337  |           18.63            |
+|     Food-edge        |  0.8190  |         4.08               |  MobileNet_v3|  0.9600  |           7.02             |
 
 
 Performance comparison for AutoML vs VM instance (NVIDIA Tesla V100) (Price)
